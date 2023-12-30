@@ -26,8 +26,8 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/joshua-estallo/qr-code-component/blob/main/index.html)
-- Live Site URL: [Add live site URL here](https://joshua-estallo.github.io/qr-code-component/)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: (https://your-live-site-url.com)
 
 ## My process
 
