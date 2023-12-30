@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
 ### Screenshot
 
 ![](./images/screenshot.png)
